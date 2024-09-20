@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Eric Banzuzi 👋
+
+- 👨🏽‍💻 I’m currently working on an MSc in Machine Learning at KTH Royal Institute of Technology 🇸🇪
+- 👀 I'm interested in data science, data engineering, softare engineering, NLP and computer vision
+- 🌱 I’m currently learning about best software development practices, advanced deep learning methods and computer vision
+- 👯 I’m looking to collaborate on anything!
+- 📫 How to reach me: banzuzi@kth.se and [LinkedIn](https://www.linkedin.com/in/eric-banzuzi/) 
+
 
 <!--
 **ericbanzuzi/ericbanzuzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
