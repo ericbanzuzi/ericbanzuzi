@@ -1,10 +1,10 @@
 ## Hi, I'm Eric Banzuzi 👋
 
-- 👨🏽‍💻 I’m currently working on an MSc in Machine Learning at KTH Royal Institute of Technology 🇸🇪
+- 👨🏽‍💻 Currently studying an MSc in Machine Learning at KTH Royal Institute of Technology 🇸🇪
 - 👀 I'm interested in data science, data engineering, software engineering, NLP and computer vision
 - 🌱 I’m currently learning about best software development practices, advanced deep learning methods and computer vision
-- 👯 I’m looking to collaborate on anything!
-- 📫 How to reach me: banzuzi@kth.se and [LinkedIn](https://www.linkedin.com/in/eric-banzuzi/) 
+- 🤝 I’m always looking to collaborate on any interesting and meaningful projects
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eric-banzuzi/) or banzuzi@kth.se
 
 
 <!--
